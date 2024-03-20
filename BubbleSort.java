@@ -4,7 +4,14 @@
  * @version 1.0
  * 
  */
-public class Main {
+
+ 
+public class BubbleSort {
+
+	/**
+	 * 
+	 * @param args è l'argomento passato al metodo main
+	 */
 	public static void main(String[] args) {
 		int[] numeri = { 1, 3, 6, 5, 4, 9, 10, 2, 7, 8 };
 		bubbleSort(numeri);
